@@ -116,6 +116,6 @@ This tutorial collection is available under the MIT License.
 
 ---
 
-**Author**: Data Engineering Tutorial Series  
-**Last Updated**: 2024  
+**Author**: Lorenzo De Tomasi
+**Last Updated**: 2025   
 **Python Version**: 3.8+
